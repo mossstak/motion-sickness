@@ -1,3 +1,3 @@
 # motion-sickness
 
-[![ Motion Sickness Video Demo ](https://img.youtube.com/vi/watch?v=k48B3j5VQtY/1.jpg)](https://www.youtube.com/watch?v=k48B3j5VQtY)
+[![Motion Sickness Video Demo](https://img.youtube.com/vi/k48B3j5VQtY/0.jpg)](https://www.youtube.com/watch?v=k48B3j5VQtY)
